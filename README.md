@@ -24,8 +24,9 @@ In our repository, we have a few files; our **README.md** file, which is the fil
 
 ## Commands you should know for this micro-challenge  
 #### (<> represent values that should be changed; DON'T include the <> characters in the changed value):  
->   ☆ **touch** -- touch \<file\> -- if \<file\> doesn't exist, it creates the file; if it does exist, it will update the timestamps of the file.  
+>   ☆ **touch** -- touch \<file\> -- if \<file\> doesn't exist, it creates the file; if it does exist, it will update the timestamps of the file. don't forget file extensions.  
 >   ☆ **append** -- echo \<thing to append\> >> \<file\> -- appends \<thing to append\> to \<file\>; you can use single or double quotes.  
+>   ☆ **remove file** -- rm <file> -- deletes the given file.  
 >   ☆ **create new branch** -- git branch \<branch name\> -- creates a new branch called \<branch name\>  
 >   ☆ **switch to a different branch** -- git checkout \<branch name\> -- switches into the branch called \<branch name\>  
 >   ☆ **_committing_**; use all these commands sequentially, together ->  
