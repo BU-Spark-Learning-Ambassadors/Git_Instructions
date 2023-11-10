@@ -35,7 +35,7 @@ In our repository, we have a few files; our **README.md** file, which is the fil
 >   |  ☆ **_push the commit_** -- git push -- NO arguments, pushes the files staged.  
 >   ☆ **commit history** -- git log -- view the commit history, including commit messages and authors.  
 >   ☆ **delete a commit**; be very careful when doing this. these commands delete a specific commit and push the result to the repo ->  
->   |  ☆ git rebase -i \<commit hash before the one you want to remove\>  
+>   |  ☆ git rebase -i \<commit hash **before** the one you want to remove\>  
 >   |  ☆ follow the directions given to you in the terminal  
 >   |  ☆ git push origin \<branch name\> --force
 
