@@ -22,7 +22,8 @@ In our repository, we have a few files; our **README.md** file, which is the fil
 #### We will NOT be editing any files directly; instead, we will be using git commands in the terminal (exception: step 8)
 #### YOU MUST COMMIT AFTER EVERY STEP THAT TELLS YOU TO COMMIT! Only commit the file you changed in each step. If you do not follow this direction, you may not be able to complete the challenge, and you may have to restart
 
-## Commands you should know for this micro-challenge (<> represent values that should be changed; DON'T include the <> characters in the changed value):  
+## Commands you should know for this micro-challenge  
+#### (<> represent values that should be changed; DON'T include the <> characters in the changed value):  
 >   ☆ **touch** -- touch \<file\> -- if \<file\> doesn't exist, it creates the file; if it does exist, it will update the timestamps of the file.  
 >   ☆ **append** -- echo \<thing to append\> >> \<file\> -- appends \<thing to append\> to \<file\>; you can use single or double quotes.  
 >   ☆ **create new branch** -- git branch \<branch name\> -- creates a new branch called \<branch name\>  
