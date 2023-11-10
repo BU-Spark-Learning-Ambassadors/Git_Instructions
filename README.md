@@ -1,12 +1,20 @@
 #Spark! Git Micro-challenge!
 
-## What is a Mirco-challange?
+## What is a micro-challange?
 A micro-challenge is a task/challenge that is a small project of code that can be done in a certain amount of time. It can be any idea that comes to mind but has to specifically be innovative and promote learning in any way. It is important that the micro challenges have different difficulty levels because some people might be more experienced than others so there has to be variety in that way. Most challenges should be able to be completed within a couple of hours to 2 days.
 
 ## Difficulty: ★☆☆
 
-## INFO:
-This is a Spark! microchallenge for getting familiar with git!  
+## What you will be doing: 
+You will be putting together some java files which will print a message in the terminal.
+
+## How you will be doing it:
+You will be using git commands to create, delete, edit, and commit files.
+
+## Duration:
+No longer than two hours.
+
+## Extra info:
 You do not have to be familiar with Java to do this challenge, but knowledge of Java _may_ help you understand the steps we are going through and help you identify bugs.
 This is called a repository. Repositories are used to store files and to hold several different commits, or versions of your code. During development, you often want to commit your code to show your process from the ground up. You also might want to update your working code into a new version, while still keeping the previous version.  
 In our repository, we have a few files; our **README.md** file, which is the file you are reading right now, our **Sort.java** file, which is a java file that sorts a given array, and our **Message.java** file, which we will use to print things out and test our code. You are going to be using GitHub commands in a codespace to edit these files and create new files. 
@@ -28,6 +36,8 @@ In our repository, we have a few files; our **README.md** file, which is the fil
 >   |  ☆ git rebase -i \<commit hash before the one you want to remove\>  
 >   |  ☆ follow the directions given to you in the terminal  
 >   |  ☆ git push origin \<branch name\> --force
+
+# Instructions
   
 ## Step 0: IMPORT the repository  
 Instead of cloning, we're going to import our repository. To do this, first, click the green **Code** button, and copy the HTTPS key. Then, click the image of your profile in the top right -> Your repositories -> New -> Import a repository. Copy your URL key into the box, and name the repository; you can give it the same name or create a new one. Then, click Begin import. This is the process you would use if you had a local git repository.  
