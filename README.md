@@ -85,5 +85,6 @@ You can run directly in the codespace (not by using a command, but by clicking t
 The output should appear in the terminal. You should get a link in return. Copy this into your browser and see where it takes you!
 You should also see the String "Spark! Git Microchallenge" re-arranged in Ascii order!
 
-(if you need help with step 8 & 9, check out this video -> https://drive.google.com/file/d/175K595HzhlMjifgqtVAvV84Bv2xHrCxV/view?usp=sharing )
+# Need help?
+Go to the Spark! Space and ask any student employee for a Learning Ambassador that can help with a micro-challenge! If you need help with step 8 & 9, check out this video -> https://drive.google.com/file/d/175K595HzhlMjifgqtVAvV84Bv2xHrCxV/view?usp=sharing )
 
